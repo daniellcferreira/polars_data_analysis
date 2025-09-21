@@ -41,7 +41,4 @@ Cada aula foi organizada para abordar conceitos importantes, desde a criação d
   - Exportação de DataFrames em **CSV**.
   - Escrita e leitura em **Parquet**.
   - Particionamento de dados por múltiplas colunas.
-  - Leitura com suporte a **Hive Partitioning**.
-
-## 📂 Estrutura do Projeto
-
+  - Leitura com suporte a **Hive Partitioning**
